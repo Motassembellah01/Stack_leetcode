@@ -8,6 +8,8 @@ Showcase my ability to approach problems systematically and improve over time. B
 
 🧩 Problems Solved
 
-  155. Min Stack
-  150. Evaluate Reverse Polish Notation
-  20. Valid Parentheses
+  155.Min Stack
+         
+  150.Evaluate Reverse Polish Notation
+         
+  20.Valid Parentheses
